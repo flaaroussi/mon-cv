@@ -1,0 +1,59 @@
+
+body{
+   padding-top:40px;
+   font-size: 10px;
+   font-family: "Source Sans Pro", Arial, sans-serif;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+   color: #2c3e50;
+}
+
+.titre{
+   color:#E05900;
+   font-size: 11px;
+}
+.name{
+   margin-bottom:0
+}
+.add{
+   margin-top: 20px;
+}
+.add i {
+   margin-right: 10px;
+   
+}
+.profil-photo{
+   border-radius: 50%;
+   width:140px;
+   height: 140px;
+}
+section{
+   margin-top:30px;
+}
+ul{
+   padding-left: 1rem;
+}
+.options{
+   margin-top:16px;
+}
+.col-4{
+   padding-left: 40px;
+}
+.disponibilite{
+   margin-top: 10px;
+   font-size:9px;
+}
+.footer{
+   margin-bottom: 30px;
+}
+.formations div{
+   margin-bottom: 12px;
+}
+h6 a{
+   color: #666 !important;
+   font-size: 10px;
+}
+
+h6{
+   font-size: 10px;
+}
